@@ -9,8 +9,6 @@ module.exports = async ({ getNamedAccounts, deployments, getChainId }) => {
   const { deployer } = await getNamedAccounts();
   const chainId = await getChainId();
 
-  const admin = "0xbF7877303B90297E7489AA1C067106331DfF7288";
-
   await deploy("Multidrop", {
     // Learn more about args here: https://www.npmjs.com/package/hardhat-deploy#deploymentsdeploy
     from: deployer,
