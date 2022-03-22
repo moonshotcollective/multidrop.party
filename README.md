@@ -1,4 +1,4 @@
-# 💧 Multidrop
+# 💧 Multidrop.party
 
 > Distribute native and custom ERC-20 tokens to a list of addresses
 
@@ -12,13 +12,13 @@ Prerequisites: [Node](https://nodejs.org/en/download/) plus [Yarn](https://class
 > clone/fork this branch:
 
 ```bash
-git clone -b token-multidrop https://github.com/scaffold-eth/scaffold-eth-examples multidrop
+git clone git@github.com:moonshotcollective/multidrop.party.git
 ```
 
 > install and start your 👷‍ Hardhat chain:
 
 ```bash
-cd multidrop
+cd multidrop.party
 yarn install
 yarn chain
 ```
@@ -26,13 +26,13 @@ yarn chain
 > in a second terminal window, start your 📱 frontend:
 
 ```bash
-cd multidrop
+cd multidrop.party
 yarn start
 ```
 
 > in a third terminal window, 🛰 deploy your contract:
 
 ```bash
-cd multidrop
+cd multidrop.party
 yarn deploy
 ```
