@@ -2,7 +2,8 @@
 
 > Distribute native and custom ERC-20 tokens to a list of addresses
 
-<img width="1440" alt="Screen Shot 2022-03-05 at 8 41 26 PM" src="https://user-images.githubusercontent.com/14002941/156906925-36322adc-4997-48bc-92fc-de2cd8f35d59.png">
+![Screen Shot 2022-03-21 at 10 01 27 PM](https://user-images.githubusercontent.com/14002941/159399380-e5efd80e-fcd0-4fd0-a388-b15ed823ad8e.png)
+
 
 
 # 🏄‍♂️ Quick Start
